@@ -4,6 +4,8 @@
 ## Objective:
 The objective of this mini-project is to apply a Deep Convolutional Generative Adversarial Network (DCGAN) on the CIFAR10 dataset. The project aims to train a generator following a specified architecture and a discriminator with a minimum of 3 convolutional layers. Additionally, after completing the training process, the project will generate 32 images and evaluate if there are any issues of mode collapse.
 
+<img width="710" alt="image" src="https://github.com/Anitha-Balachandran/DCGAN-CIFAR10-Image-Generation/assets/143915040/4e2e3189-7f14-4dc6-ba5e-b6e9f7a13e83">
+
 ## Details:
 
 ### DCGAN Architecture
